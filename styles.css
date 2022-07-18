@@ -19,16 +19,16 @@ body{
     border: 5px darkblue;
 }
 #wydzbb {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 80%;
 }
 #dessin {
-    position:absolute;
+    position:fixed;
     left: 70%;
 }
 #wydzarma {
-  position: absolute;
+  position: fixed;
 
 }
 
@@ -36,7 +36,7 @@ body{
 
 
 #wydzpro {
-position: absolute;
+position: fixed;
 top: 50%;
 }
 
