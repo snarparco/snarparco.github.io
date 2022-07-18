@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "font-1";
+    src: url(./RubikMoonrocks-Regular.ttf);
+}
+
+body{
+    font-family: "font-1", serif;
+    background: url(./reksai.jpg) no-repeat fixed center/cover;
+}
+.images {
+    border: 5px darkblue;
+}
+#wydzbb {
+    position: fixed;
+    top: 50%;
+    left: 80%;
+    z-index: -1;
+}
+#dessin {
+    position:fixed;
+    left: 70%;
+    z-index: -1;
+}
+#wydzarma {
+    position: fixed;
+    z-index: -1;
+    
+}
+#wydzpro {
+    position: fixed;
+    top: 50%;
+    z-index: -1;
+}
+
+#vidwydz {
+    position: absolute;
+    left: 30%;
+    z-index: -1;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    top: 90%;
+    padding: 10%;
+}
